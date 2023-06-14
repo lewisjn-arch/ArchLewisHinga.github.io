@@ -57,7 +57,7 @@
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- - Not deployed yet
+ - Here is the <a name="demo" href="https://lewisjn-arch.github.io/ArchLewisHinga.github.io">live demo link</a> of my website!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
